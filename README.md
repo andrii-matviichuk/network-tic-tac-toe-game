@@ -5,6 +5,6 @@ This application consist of
 
 ## Available Scripts
 
-### `compile`  - compile code \
-### `runServer`  - run server \
-### `runXClients`  - run X clients
+### `compile.bat`  - compile code 
+### `runServer.bat`  - run server 
+### `runXClients.bat`  - run X clients
