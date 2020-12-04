@@ -5,6 +5,6 @@ This application consist of
 
 ## Available Scripts
 
-###`compile`  - compile code
-###`runServer`  - run server
-###`runXClients`  - run X clients
+### `compile`  - compile code \
+### `runServer`  - run server \
+### `runXClients`  - run X clients
